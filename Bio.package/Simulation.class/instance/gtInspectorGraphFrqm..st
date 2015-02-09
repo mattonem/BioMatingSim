@@ -9,7 +9,7 @@ gtInspectorGraphFrqm: composite
 					b := RTGrapher new.
 					b extent: 600 @ 300.
 					ds := RTStackedDataSet new.
-					ds interaction popup text: #frm.
+					ds interaction popup text: [:each | each key frm asFloat].
 					ds dotShape ellipse size: 5; color: (Color red alpha: 0.5).
 					ds points: self timeLine.
 					

@@ -9,7 +9,7 @@ gtInspectorGraphSexratio: composite
 					b := RTGrapher new.
 					b extent: 600 @ 300.
 					ds := RTStackedDataSet new.
-					ds interaction popup text: #sexRatio.
+					ds interaction popup text: [:each | each key sexRatio asFloat].
 					ds dotShape ellipse size: 5; color: (Color red alpha: 0.5).
 					ds points: self timeLine.
 					
