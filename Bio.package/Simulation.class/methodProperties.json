@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addEgg:" : "maxmattone 2/6/2015 19:36",
+		"atTime:" : "maxmattone 2/6/2015 14:03",
+		"calculateTo:" : "maxmattone 2/6/2015 19:57",
+		"duration" : "maxmattone 2/7/2015 00:29",
+		"findLover" : "maxmattone 2/6/2015 19:41",
+		"fm" : "maxmattone 2/6/2015 19:46",
+		"fm:" : "maxmattone 2/6/2015 16:04",
+		"fr" : "maxmattone 2/6/2015 19:46",
+		"fr:" : "maxmattone 2/6/2015 16:05",
+		"gtInspectorGraphFrqm:" : "maxmattone 2/7/2015 15:08",
+		"gtInspectorGraphPopratio:" : "maxmattone 2/7/2015 14:56",
+		"gtInspectorGraphSexratio:" : "maxmattone 2/7/2015 15:08",
+		"gtInspectorRawIn:" : "maxmattone 2/7/2015 15:07",
+		"initialize" : "maxmattone 2/7/2015 01:25",
+		"resetData" : "maxmattone 2/7/2015 01:09",
+		"sexRatio0" : "maxmattone 2/7/2015 01:22",
+		"stepOn:" : "maxmattone 2/6/2015 19:37",
+		"timeLine" : "maxmattone 2/6/2015 16:18",
+		"visitFemale:" : "maxmattone 2/6/2015 19:44",
+		"visitMale:" : "maxmattone 2/6/2015 19:39" } }

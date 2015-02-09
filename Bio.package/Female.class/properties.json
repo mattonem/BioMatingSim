@@ -1,0 +1,15 @@
+{
+	"category" : "Bio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"allele1",
+		"allele2" ],
+	"name" : "Female",
+	"pools" : [
+		 ],
+	"super" : "Individu",
+	"type" : "normal" }

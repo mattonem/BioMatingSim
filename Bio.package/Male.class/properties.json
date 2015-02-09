@@ -1,0 +1,14 @@
+{
+	"category" : "Bio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"allele" ],
+	"name" : "Male",
+	"pools" : [
+		 ],
+	"super" : "Individu",
+	"type" : "normal" }

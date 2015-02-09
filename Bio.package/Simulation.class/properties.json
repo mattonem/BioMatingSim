@@ -1,0 +1,23 @@
+{
+	"category" : "Bio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"timeline",
+		"maxPop",
+		"fm",
+		"fr",
+		"eggPool",
+		"workingPop",
+		"duration",
+		"hetero",
+		"homo",
+		"sexRatio0" ],
+	"name" : "Simulation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

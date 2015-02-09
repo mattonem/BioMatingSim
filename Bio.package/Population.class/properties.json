@@ -1,0 +1,14 @@
+{
+	"category" : "Bio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"individus" ],
+	"name" : "Population",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
