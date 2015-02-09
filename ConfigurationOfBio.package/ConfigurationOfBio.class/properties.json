@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfBio",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfBio",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"DevelopmentSupport" : "maxmattone 2/9/2015 10:39",
+		"baseConfigurationClassIfAbsent:" : "maxmattone 2/9/2015 10:39",
+		"ensureMetacello" : "maxmattone 2/9/2015 10:39",
+		"ensureMetacelloBaseConfiguration" : "maxmattone 2/9/2015 10:39",
+		"isMetacelloConfig" : "maxmattone 2/9/2015 10:39",
+		"load" : "maxmattone 2/9/2015 10:39",
+		"loadBleedingEdge" : "maxmattone 2/9/2015 10:39",
+		"loadDevelopment" : "maxmattone 2/9/2015 10:39",
+		"project" : "maxmattone 2/9/2015 10:39",
+		"validate" : "maxmattone 2/9/2015 10:39" },
+	"instance" : {
+		"baseline01:" : "maxmattone 2/9/2015 10:39",
+		"customProjectAttributes" : "maxmattone 2/9/2015 10:39",
+		"development:" : "maxmattone 2/9/2015 10:42",
+		"project" : "maxmattone 2/9/2015 10:39",
+		"stable:" : "maxmattone 2/9/2015 10:42" } }
