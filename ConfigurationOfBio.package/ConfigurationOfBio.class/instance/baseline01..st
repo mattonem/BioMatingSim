@@ -4,7 +4,7 @@ baseline01: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'baseline'.
-		spec repository: 'gitfiletree:///Users/max/Documents/BioMatingSim'.
+		spec repository: 'github://mattonem/BioMatingSim'.
 		spec project: 'Roassal2' with: [
 				spec
 					className: #ConfigurationOfRoassal2;
