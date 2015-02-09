@@ -7,7 +7,7 @@ gtInspectorGraphPopratio: composite
 					|b ds lb|
 					self atTime: self duration.
 					
-					b := RTGrapherBuilder new.
+					b := RTGrapher new.
 					b extent: 800 @ 400.
 					ds := RTStackedDataSet new.
 					ds barShape color: Color paleBlue.

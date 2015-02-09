@@ -1,1 +1,2 @@
-(name 'Bio-maxmattone.1' message 'first commit' id 'f6a62fb1-7fcf-46f6-9216-bcc20f0fc251' date '9 February 2015' time '10:20:37.77641 am' author 'maxmattone' ancestors () stepChildren ())
+(name 'Bio-maxmattone.2' message 'Update for last Roassal version....Popups are broken on curves.' id 'e9c246e3-4090-42af-978b-bc7e104d76ed' date '9 February 2015' time '11:00:06.278087 am' author 'maxmattone' ancestors ((name 'Bio-maxmattone.1' message 'first commit
+' id 'd44750bb-f1b2-5003-a836-465162d329cb' date '9 February 2015' time '10:20:40 am' author 'maxmattone' ancestors () stepChildren ())) stepChildren ())

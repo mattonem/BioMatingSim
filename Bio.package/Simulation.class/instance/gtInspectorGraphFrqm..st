@@ -6,7 +6,7 @@ gtInspectorGraphFrqm: composite
 		display: [ 
 					| b ds |
 					self atTime: self duration.
-					b := RTGrapherBuilder new.
+					b := RTGrapher new.
 					b extent: 600 @ 300.
 					ds := RTStackedDataSet new.
 					ds interaction popup text: #frm.
